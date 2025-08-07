@@ -7,3 +7,4 @@ The mass spectrometry proteomics data have been deposited to the ProteomeXchange
 
 ## Code availability
 The [Notebooks](https://github.com/pasquelab/Mice-XCU/tree/main/Notebooks) directory contains Jupyter Notebooks used for processing the scRNA-seq data and generating figures.
+[![DOI](https://zenodo.org/badge/923085316.svg)](https://doi.org/10.5281/zenodo.16760254)
